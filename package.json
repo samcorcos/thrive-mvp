@@ -1,0 +1,15 @@
+{
+  "name": "thrive - side by side website",
+  "version": "1.0.0",
+  "description": "The MVP of a blog site for Thrive and landing page where donors can find info on about the website.",
+  "main": "src/app.js",
+  "scripts": {
+    "start": "node src/app.js"
+  },
+  "author": "Jeff Astor",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.13.3",
+    "jade": "^1.11.0"
+  }
+}
